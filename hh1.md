@@ -19,4 +19,4 @@ hacker@hello~intro-to-commands:~$ whoami
 hacker
 ```
 ### New learnings
-In this challenge, I learnt how to connect the terminal to pwn.college using SSH key and solve challenges using the terminal, also learnt about the execution of some basic commands. 
+In this challenge, I learnt how to connect the terminal to pwn.college using SSH key and solve challenges using the terminal, also learnt about the execution of some basic commands.
